@@ -1,4 +1,4 @@
-# JobShock Navigator (Hex-a-Thon Submission)
+# JobShock Navigator
 
 **JobShock Navigator** is an early-intervention decision tool that detects labor-market stress signals using Google Trends, then recommends resilient job transition options tailored to the user’s occupation.
 
